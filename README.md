@@ -19,3 +19,6 @@ The project requires the following libraries and dependencies:
 2. **Image Preprocessing**: Resizes and normalizes images.
 3. **Style and Content Loss Calculation**: Computes losses to blend style and content.
 4. **Optimization**: Uses the Adam optimizer to update the generated image.
+
+## Reference
+https://arxiv.org/pdf/1508.06576
